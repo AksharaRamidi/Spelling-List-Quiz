@@ -11,7 +11,8 @@ Hosted on GitHub Pages: (https://github.com/AksharaRamidi/Spelling-List-Quiz)
 
 ## Download
 <a href="6thGradeSpelling.zip" download>Download 6th Grade Indiana Spelling Quiz (ZIP)</a>
-## Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/AksharaRamidi/Spelling-List-Quiz
+## Steps To Run
+1. Click Download Button Above
+2. Click View Raw
+3. In your Download Folder, open the folder (you will see two files)
+4. Open the "main" file with any browser
