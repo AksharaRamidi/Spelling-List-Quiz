@@ -1,7 +1,7 @@
 # Spelling Practice Quiz
-
+ 
 A simple spelling quiz website built with HTML and JSON.  
-Hosted on GitHub Pages: (https://github.com/AksharaRamidi/Indiana-Spelling-List-Quiz)
+Hosted on GitHub Pages: (https://akshararamidi.github.io/Indiana-Spelling-List-Quiz/)
 
 ## Features
 - Interactive spelling quiz
@@ -9,9 +9,12 @@ Hosted on GitHub Pages: (https://github.com/AksharaRamidi/Indiana-Spelling-List-
 - Instant feedback and scoring
 - Easy to extend with new words
 
+## !PLEASE READ DIRECTIONS!
+
 ## Download
 <a href="6thGradeSpelling.zip" download>Download 6th Grade Indiana Spelling Quiz (ZIP)</a>
-## Steps To Run
+
+## DIRECTIONS
 1. Click Download Button Above
 2. Click View Raw
 3. In your Download Folder, open the folder (you will see two files)
