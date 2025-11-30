@@ -1,13 +1,14 @@
-# Spelling Practice Quiz
+# Spelling Self-Tester
  
-A simple spelling quiz website built with HTML and JSON.  
+A simple spelling self-tester website built with HTML and JSON.  
 Hosted on GitHub Pages: (https://akshararamidi.github.io/Indiana-Spelling-List-Quiz/)
 
 ## Features
-- Interactive spelling quiz
+- Interactive spelling test
 - JSON-based word list
 - Instant feedback and scoring
 - Easy to extend with new words
+- Provides Definitions
 
 ## !PLEASE READ DIRECTIONS!
 
