@@ -12,9 +12,11 @@ Hosted on GitHub Pages: (https://akshararamidi.github.io/Indiana-Spelling-List-Q
 ## !PLEASE READ DIRECTIONS!
 
 ## Download
-<a href="6thGradeSpelling.zip" download>Download 6th Grade Indiana Spelling Quiz (ZIP)</a>
+<a href="6thGradeSpelling.zip" download>Download 6th Grade Indiana Spelling Quiz 2026(ZIP)</a>
 
-<a href="4thGradeSpelling.zip" download>Download 4th Grade Indiana Spelling Quiz (ZIP)</a>
+<a href="5thGradeSpelling.zip" download>Download 5th Grade Indiana Spelling Quiz 2026(ZIP)</a>
+
+<a href="4thGradeSpelling.zip" download>Download 4th Grade Indiana Spelling Quiz 2026(ZIP)</a>
 
 
 ## DIRECTIONS
