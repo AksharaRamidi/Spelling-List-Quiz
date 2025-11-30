@@ -22,5 +22,6 @@ Hosted on GitHub Pages: (https://akshararamidi.github.io/Indiana-Spelling-List-Q
 
 ## DIRECTIONS
 1. Click Download Button Above
-2. In your Download Folder, open the folder (you will see two files)
-3. Open the "main" file with any browser
+2. Unzip the downloaded folder
+3. In your Download Folder, (you will see two files)
+4. Open the "main" file with any browser and you should be good to start with your pratice
